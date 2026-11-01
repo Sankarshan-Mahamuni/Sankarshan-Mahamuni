@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,30,15&height=220&section=header&text=Sankarshan%20Mahamuni&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,30,15&height=220&section=header&text=Sankarshan%20Mahamuni&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Distributed%20Systems%20%7C%20AI%20%26%20IoT&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -18,12 +18,12 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Sankarshan**, a passionate software developer exploring the intersection of **AI Agents**, **Distributed Systems**, and **Internet of Things (IoT)**. I love architecting tools that solve real-world problems and building interactive developer workflows.
+Hello! I'm **Sankarshan**, a software developer pursuing Information Technology at PCCOE Pune. I focus on building resilient software architectures at the intersection of **Distributed Systems**, **Agentic AI & Compilers**, and **Embedded IoT Systems**.
 
-* 🔭 **Currently Building:** AI pair-programming companions and intelligent software tools.
-* 🌱 **Exploring:** Agentic workflows, concurrency architectures, and real-time sensor analytics.
-* 💡 **Core Interests:** Artificial Intelligence, Embedded Systems (ESP32), Distributed Computing & Python/PyQt.
-* 💬 **Ask me about:** Python development, IoT integration, algorithms, and full-stack prototyping.
+* 🔭 **Currently Building:** AI pair-programming companions, runtime AST execution visualizers, and distributed systems labs.
+* 🌱 **Exploring:** Concurrency control (2PC, CAS), Lamport logical clocks, database sharding, and real-time sensory telemetry.
+* 💡 **Core Interests:** Distributed Computing, Game AI & Machine Learning, Compiler/Tracer Tooling, and Embedded Systems (ESP32).
+* 💬 **Ask me about:** Python, Go, C++, FastAPI, Flask, Distributed Systems, Algorithms, and IoT.
 
 ---
 
@@ -33,27 +33,24 @@ Hello! I'm **Sankarshan**, a passionate software developer exploring the interse
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frameworks & Libraries
+#### Frameworks, Engines & AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-yellow?style=for-the-badge)
 
-#### IoT & Hardware
+#### Systems & IoT
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FF6F00?style=for-the-badge)
+![SQLite Sharding](https://img.shields.io/badge/SQLite_Sharding-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-005C8A?style=for-the-badge&logo=mathworks&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-#### Developer Tools & Ecosystems
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -62,13 +59,16 @@ Hello! I'm **Sankarshan**, a passionate software developer exploring the interse
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| 🕷️ **[Spider-Man Desktop Companion](https://github.com/Sankarshan-Mahamuni/spiderman-antigravity-pet)** | Minimalist, state-aware desktop pet for Google Antigravity with audio feedback and pure alpha transparency. | `Python` `PyQt6` `Antigravity` |
-| 🚌 **[IoT Bus Passenger Counter](https://github.com/Sankarshan-Mahamuni/bus-passenger-counter)** | Automated transit occupancy tracking system connecting ESP32 sensors to Flask backend and ThingSpeak cloud. | `IoT` `ESP32` `Flask` `Python` |
-| 🔍 **[Code Visualizer (CodeXray)](https://github.com/Sankarshan-Mahamuni/Code_Visualizer_CodeXray)** | Interactive code inspection and structure visualization tool. | `JavaScript` `HTML/CSS` |
-| 🚄 **[Railway Concurrency DCS](https://github.com/Sankarshan-Mahamuni/railway-concurrency-dcs)** | Distributed concurrency simulator ensuring thread-safe train scheduling and track management. | `Distributed Systems` `C++` |
-| 📝 **[NLP Plagiarism Detection](https://github.com/Sankarshan-Mahamuni/NLP_Plag_Detection_)** | Text similarity and plagiarism analysis using NLP tokenization and similarity algorithms. | `NLP` `Python` `Data Science` |
+| 🔬 **[CodeXray (Code Visualizer)](https://github.com/Sankarshan-Mahamuni/Code_Visualizer_CodeXray)** | Interactive multi-language runtime execution and memory graph visualizer with AST tracers and Gemini AI tutor. | `Go` `Python AST` `Java` `Gemini AI` |
+| 🚆 **[RailReserve DCS](https://github.com/Sankarshan-Mahamuni/railway-concurrency-dcs)** | High-concurrency distributed railway simulator resolving race conditions with Atomic CAS, 2PC, Lamport Clocks, and DB sharding. | `FastAPI` `Distributed Systems` `SSE` |
+| 🕷️ **[Spider-Man Antigravity Pet](https://github.com/Sankarshan-Mahamuni/spiderman-antigravity-pet)** | Transparent, state-aware desktop companion for Google Antigravity responding in real-time to agent lifecycle events. | `Python` `PyQt6` `Agentic AI` |
+| 🏹 **[Archery Combat ML Game](https://github.com/Sankarshan-Mahamuni/Archery-Combat-Game-_MAIN)** | Turn-based strategy combat game featuring a Random Forest opponent model that counters player weapon combos in real-time. | `Machine Learning` `Pygame` `scikit-learn` |
+| 🚌 **[IoT Bus Passenger Counter](https://github.com/Sankarshan-Mahamuni/bus-passenger-counter)** | Automated transit occupancy tracker connecting dual-beam ESP32 IR sensors to a Flask dashboard and ThingSpeak cloud. | `IoT` `ESP32` `Flask` `ThingSpeak` |
+| 🍽️ **[Campus Canteen DBMS](https://github.com/Sankarshan-Mahamuni/Canteen_project_DBMS)** | Cafeteria ordering & student digital wallet system with multi-counter routing, token generation, and MySQL backend. | `Flask` `MySQL` `Docker` |
+| 📐 **[DAA Laboratory Matrix](https://github.com/Sankarshan-Mahamuni/123B1F057_DAA_assignments)** | Rigorous implementations of classical algorithms: DP, Divide & Conquer, Backtracking, and Branch & Bound in modern C++. | `C++17` `Algorithms` `Optimization` |
+| 🔍 **[NLP Plagiarism Detector](https://github.com/Sankarshan-Mahamuni/NLP_Plag_Detection_)** | Multi-metric plagiarism engine combining TF-IDF Cosine, Bi-gram Jaccard Index, and Dynamic Programming LCS. | `NLP` `Python` `Algorithms` |
 
 ---
 
